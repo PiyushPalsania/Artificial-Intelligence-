@@ -6,5 +6,4 @@
 Artificial intelligence is the ability of machines to perform tasks that are typically associated with human intelligence, such as learning and problem-solving.
 
 # Subsets Of AI 
-1. Machine Learning
-2. 
+1. Machine Learning 
