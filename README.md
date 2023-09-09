@@ -1,6 +1,10 @@
 # Artificial-Intelligence-
 
-Greetings Viewer, This is my Github Artificial Intelligence repository
+# Greetings Viewer, This is my Github Artificial Intelligence repository
 
-What is AI( Artificial Intelligence ) ?
-Artificial Intelligence is 
+# What is AI ( Artificial Intelligence ) ?
+Artificial intelligence is the ability of machines to perform tasks that are typically associated with human intelligence, such as learning and problem-solving.
+
+# Subsets Of AI 
+1. Machine Learning
+2. 
